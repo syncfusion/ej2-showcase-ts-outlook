@@ -5,6 +5,16 @@
   "author": "Syncfusion Inc.",
   "license": "SEE LICENSE IN license",
   "dependencies": {
+    "@syncfusion/ej2-base": "*",
+    "@syncfusion/ej2-icons": "*",
+    "@syncfusion/ej2-buttons": "*",
+    "@syncfusion/ej2-calendars": "*",
+    "@syncfusion/ej2-charts": "*",
+    "@syncfusion/ej2-data": "*",
+    "@syncfusion/ej2-dropdowns": "*",
+    "@syncfusion/ej2-grids": "*",
+    "@syncfusion/ej2-inputs": "*",
+    "@syncfusion/ej2-popups": "*",
     "browser-sync": "^2.23.6",
     "crossroads": "^0.12.2",
     "hasher": "^1.2.0"
